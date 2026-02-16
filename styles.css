@@ -1,2 +1,2 @@
 .container{
-    -webkit-gradient(linear, left top, right top, from(#d4d42c), to(#1221f5));}
+    background-image: linear-gradient(to right, #d4d42c, #1221f5);}
